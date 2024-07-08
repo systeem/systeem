@@ -11,6 +11,7 @@ systeem@README.md ~ # pip install requests selenium bs4
 systeem@README.md ~ # # Yes I like webscraping how did you know?
 systeem@README.md ~ # pip install Pillow
 ```
+```
                                                 ,g88bg,
                                        ,g8888g, )   "8b
                                        )~  "88b<    CIP
@@ -52,3 +53,4 @@ aaadP"'             `""Yb,       .-'  _.'--'  _.-'     (
                           d8888888'         88888888       ,d888bbaaP
                           88888888                         88888888'
                                                            """"""""
+```
