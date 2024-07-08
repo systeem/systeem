@@ -11,3 +11,4 @@ systeem@README.md ~ # pip install requests selenium bs4
 systeem@README.md ~ # # Yes I like webscraping how did you know?
 systeem@README.md ~ # pip install Pillow
 ```
+i like minors like drake does
